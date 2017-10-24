@@ -1,6 +1,10 @@
-= time_entry_cf_binder
+= time_entry_cf_binder (Redmine plugin)
 
-Time entry (spent time) custom field binder. It binds custom field to Project and Tracker.
+Time entry (spent time) custom field binder is a Redmine plugin. It binds custom field to Project and Tracker.
 And makes possible it switches between projects/trackers
+
+Tested on Redmine 2.6.10.stable
+
+
 
  
