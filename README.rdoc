@@ -1,3 +1,6 @@
 = time_entry_cf_binder
 
-Description goes here
+Time entry (spent time) custom field binder. It binds custom field to Project and Tracker.
+And makes possible it switches between projects/trackers
+
+ 
