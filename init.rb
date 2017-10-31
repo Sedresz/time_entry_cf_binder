@@ -5,6 +5,7 @@ require_dependency 'patches/time_entry_cf_binder/tracker_patch'
 require_dependency 'view_hooks/custom_field_hook'
 
 
+
 Redmine::Plugin.register :time_entry_cf_binder do
   name 'Time entry custom field binder plugin'
   author 'Dmitry Glushchikov'
