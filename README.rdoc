@@ -3,7 +3,7 @@
 Time entry (spent time) custom field binder is a Redmine plugin. It binds custom field to Project and Tracker.
 And makes possible it switches between projects/trackers
 
-Tested on Redmine 2.6.10.stable
+Tested on Redmine 2.6.10.stable and 3.4.2.stable
 
 
 

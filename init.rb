@@ -11,8 +11,8 @@ Redmine::Plugin.register :time_entry_cf_binder do
   author 'Dmitry Glushchikov'
   description 'This is a plugin for Redmine binds time_entry custom fields to project and trackers (like issues)'
   version '.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/rpc1/time_entry_cf_binder'
+  author_url 'https://github.com/rpc1'
 end
 
 ActionDispatch::Callbacks.to_prepare do
