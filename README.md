@@ -27,7 +27,7 @@ $ git clone https://github.com/rpc1/time_entry_cf_binder.git
 * Restart redmine
 
 
-Licence
+License
 -------
 
 GNU General Public License Version 2
