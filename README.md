@@ -1,5 +1,5 @@
 time_entry_cf_binder (Redmine plugin)
-==============================
+======================================
 Time entry (spent time) custom field binder. 
 Plugin allows bind custom field to Project and Tracker and makes possible it switches between projects/trackers.
 
@@ -21,10 +21,9 @@ Installation
 ------------
 
 * Clone https://github.com/javiferrer/redmine_custom_values_projects or download zip into  **redmine_dir/plugins/** folder
-```
+ 
 $ git clone https://github.com/rpc1/time_entry_cf_binder.git
-```
-```
+ 
 * Restart redmine
 
 
