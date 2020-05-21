@@ -15,7 +15,7 @@ Redmine::Plugin.register :time_entry_cf_binder do
   author_url 'https://github.com/rpc1'
 end
 
-ActionDispatch::Callbacks.to_prepare do
+ActionDispatch::Callbacks.to_param do
   TimeEntry.send(:include, TimeEntryCustomFieldBinder::TimeEntryPatch)
   TimeEntryCustomField.send(:include,TimeEntryCustomFieldBinder::TimeEntryCustomFieldPatch)
   Project.send(:include, TimeEntryCustomFieldBinder::ProjectPatch)
